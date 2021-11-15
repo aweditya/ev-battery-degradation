@@ -1,0 +1,2 @@
+# ignoring .mat datafiles
+*.mat
