@@ -16,6 +16,9 @@ The dataset used in the project was obtained from the [Prognostics Centre of Exc
 ├── images
 │   ├── mlp_blue.png
 │   └── model.png
+├── report
+│   ├── Report.pdf
+│   └── Supplementary.pdf
 ├── requirements.txt
 └── src
     └── Predicting RUL of EV Batteries.ipynb
