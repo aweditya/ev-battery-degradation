@@ -4,5 +4,27 @@ The purpose of this project is to predict RUL of EV batteries by estimating _Bat
 
 The dataset used in the project was obtained from the [Prognostics Centre of Excellence](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/). 
 
+### Directory Structure
+
+```
+.
+├── README.md
+├── datasets
+│   ├── README.txt
+│   ├── data
+│   │   ├── B0005.pkl
+│   │   ├── B0006.pkl
+│   │   ├── B0007.pkl
+│   │   └── B0018.pkl
+│   ├── data.zip
+│   └── save_data_as_pickle.py
+├── images
+│   ├── mlp_blue.png
+│   └── model.png
+├── requirements.txt
+└── src
+    └── Predicting RUL of EV Batteries.ipynb
+```
+
 #### Dataset Citation
 B. Saha and K. Goebel (2007). "Battery Data Set", NASA Ames Prognostics Data Repository (http://ti.arc.nasa.gov/project/prognostic-data-repository), NASA Ames Research Center, Moffett Field, CA
