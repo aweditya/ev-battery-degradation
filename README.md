@@ -11,11 +11,6 @@ The dataset used in the project was obtained from the [Prognostics Centre of Exc
 ├── README.md
 ├── datasets
 │   ├── README.txt
-│   ├── data
-│   │   ├── B0005.pkl
-│   │   ├── B0006.pkl
-│   │   ├── B0007.pkl
-│   │   └── B0018.pkl
 │   ├── data.zip
 │   └── save_data_as_pickle.py
 ├── images
